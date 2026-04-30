@@ -30,3 +30,7 @@ I am passionate about transforming raw data into clear, actionable insights that
 
 ## Connect With Me
 Feel free to connect or collaborate on data projects and opportunities.
+
+## Contact Me
+📧 Email: azeezfola@gmail.com  
+📱 Phone: 07080421822 
