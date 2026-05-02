@@ -1,10 +1,10 @@
 #  About Me
 
-# Hi, I am Azeez Akinkunmi Folarin 👋
+# Hi, I am Azeez Akinkunmi Folarin 
 
 ### Aspiring Data Analyst
 
-I am passionate about transforming raw data into clear, actionable insights that support better decision-making.
+I am passionate about transforming raw data into clear, actionable insights that support better decision making.
 
 ## What I Do
 - Clean and analyze datasets
